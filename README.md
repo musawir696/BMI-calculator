@@ -1,3 +1,4 @@
+![BMi](https://github.com/musawir696/BMI-calculator/assets/112896428/388a1714-6611-4041-8a02-0c09efc6c163)
 # bmi
 
 A new Flutter project.
